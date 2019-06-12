@@ -1,0 +1,9 @@
+C:\Users\jayC\Documents\Visual Studio 2015\Projects\Data_Structure_Algorithm\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe.config
+C:\Users\jayC\Documents\Visual Studio 2015\Projects\Data_Structure_Algorithm\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\jayC\Documents\Visual Studio 2015\Projects\Data_Structure_Algorithm\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe
+C:\Users\jayC\Documents\Visual Studio 2015\Projects\Data_Structure_Algorithm\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+C:\Users\jayC\Documents\Visual Studio 2015\Projects\Data_Structure_Algorithm\CodeChallenge\CodeChallenge\bin\Debug\nunit.framework.dll
+C:\Users\jayC\Documents\Visual Studio 2015\Projects\Data_Structure_Algorithm\CodeChallenge\CodeChallenge\bin\Debug\nunit.framework.pdb
+C:\Users\jayC\Documents\Visual Studio 2015\Projects\Data_Structure_Algorithm\CodeChallenge\CodeChallenge\bin\Debug\nunit.framework.xml
+C:\Users\jayC\Documents\Visual Studio 2015\Projects\Data_Structure_Algorithm\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.exe
+C:\Users\jayC\Documents\Visual Studio 2015\Projects\Data_Structure_Algorithm\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb
